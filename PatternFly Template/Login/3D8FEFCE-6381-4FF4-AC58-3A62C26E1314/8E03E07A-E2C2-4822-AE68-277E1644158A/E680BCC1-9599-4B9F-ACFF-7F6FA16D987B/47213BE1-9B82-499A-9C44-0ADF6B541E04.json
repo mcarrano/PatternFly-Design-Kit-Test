@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "47213BE1-9B82-499A-9C44-0ADF6B541E04",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 383,
+    "x": 12,
+    "y": 276
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Log in Button",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8F7D918F-835A-4F02-AD44-4D37375E8069",
+      "overrideName": "CEC3FB63-0613-41DA-BCA3-EC348D1C66D2_symbolID",
+      "value": "0E74BC41-25CB-494E-B1F9-2F6A0278ED5B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D0E29E20-49F8-4D06-B83C-A19EEF67A0F8",
+      "overrideName": "274AC36B-7595-47A2-9599-DCA6920E9FE9_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0AAE55CA-4F5A-4B1C-B2F2-7DC149151E59",
+      "overrideName": "CEC3FB63-0613-41DA-BCA3-EC348D1C66D2/9659FA6C-75BB-4695-B816-A906B675A92D/AB514321-B78B-4A7E-AE8F-8D1D60F0B3F5_stringValue",
+      "value": "Log In"
+    }
+  ],
+  "overrides": {
+    "274AC36B-7595-47A2-9599-DCA6920E9FE9": {
+      "symbolID": ""
+    },
+    "CEC3FB63-0613-41DA-BCA3-EC348D1C66D2": {
+      "9659FA6C-75BB-4695-B816-A906B675A92D": {
+        "AB514321-B78B-4A7E-AE8F-8D1D60F0B3F5": "Log In"
+      },
+      "symbolID": "0E74BC41-25CB-494E-B1F9-2F6A0278ED5B"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "52569D79-0877-4383-8681-0FC47CCF465F",
+  "verticalSpacing": 0
+}

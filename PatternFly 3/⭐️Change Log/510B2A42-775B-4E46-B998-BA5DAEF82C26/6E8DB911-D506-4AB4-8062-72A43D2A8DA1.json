@@ -1,0 +1,54 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbm9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHwcIDxAcHR4fKywtLi8wMTIzOj5GR0hJSk5aXWFkaGpVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAegANfEBRQYXR0ZXJuRmx5IDMgTGlicmFyedMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ARgBiAHV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxl0xESCiAlKqQhIiMkgAiACYAKgAukJicoKYAMgA2ADoAPgBBTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP4gYGBgYGAAQASM/iBgYGBgYACM/iBgYGBgYANI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ozY4OVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSCjs8PV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBeAEtMREgo/QiqiQEGAE4AUokNEgBWAFoAQXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUQGF5PcGVuU2Fucy1MaWdodNI0NUtMXxAQTlNGb250RGVzY3JpcHRvcqJNOV8QEE5TRm9udERlc2NyaXB0b3LXCk9QUVJTVFVWV1gwWVlaTlNUYWJTdG9wc1tOU1RleHRMaXN0c1xOU1RleHRCbG9ja3NfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0gByAAIAbgBkjQDEAAAAAAADSEgpbXKCAGtI0NV5fXk5TTXV0YWJsZUFycmF5o15gOVdOU0FycmF50hIKYlyggBrSNDVlZl8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo2VnOV8QEE5TUGFyYWdyYXBoU3R5bGXSNDU4aaI4OdI0NWtsXxASTlNBdHRyaWJ1dGVkU3RyaW5nom05XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XBxVHJvb3SAAQAIABEAGgAjAC0AMgA3AFkAXwBmAG8AdgCDAIUAhwCJAKAApwCvALoAvgDAAMIAxADIAMoAzADOANAA/QEfATIBOQE+AUABQgFEAUYBSwFNAU8BUQFTAVUBWQFfAWQBagFzAXUBfgGHAYwBlwGgAbYBugHHAdAB1QHyAfQB9gH9AgACAgIEAgcCCQILAg0CIwI5AjsCSgJPAmICZQJ4AocCkgKeAqsCzQLfAvEC8wL1AvcC+QMCAwcDCAMKAw8DHgMiAyoDLwMwAzIDNwNRA1UDaANtA3ADdQOKA40DogO0A7cDvAAAAAAAAAIBAAAAAAAAAHIAAAAAAAAAAAAAAAAAAAO+"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "6E8DB911-D506-4AB4-8062-72A43D2A8DA1",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9E6652E5-3306-4B28-A49B-1662DC3029B5",
+    "height": 17,
+    "width": 209,
+    "x": 44,
+    "y": 56
+  },
+  "glyphBounds": "{{2, -2}, {207, 25}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "PatternFly 3 Library",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "47A7D660-DDB8-4222-990E-F12C8D2F8C6B"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
+}

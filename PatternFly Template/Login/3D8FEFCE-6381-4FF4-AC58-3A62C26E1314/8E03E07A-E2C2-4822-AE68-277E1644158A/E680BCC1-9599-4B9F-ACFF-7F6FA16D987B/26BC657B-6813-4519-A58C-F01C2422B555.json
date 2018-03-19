@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "26BC657B-6813-4519-A58C-F01C2422B555",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25,
+    "width": 77,
+    "x": 330,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Language Select",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "04FEABA0-3E16-4E1A-9C5C-4C11C6C95310",
+      "overrideName": "A8A456CA-AE07-4C1A-8B1F-0639B5DA2F02_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AA6D9D24-22F9-4976-8431-B00AA77D45AB",
+      "overrideName": "25620291-C7CC-43F4-8C38-F38B2CB43B0C_symbolID",
+      "value": "AE522A1E-7D2E-45E0-BBC6-B98430B29C3E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E0925386-44FC-49A6-BD73-55F0EE38D427",
+      "overrideName": "25620291-C7CC-43F4-8C38-F38B2CB43B0C/0C538CEF-0FEF-45D0-8CF1-71E10F00A201/411866D9-3B2B-4F77-9CD3-D42AC5E3F687_stringValue",
+      "value": "English"
+    }
+  ],
+  "overrides": {
+    "25620291-C7CC-43F4-8C38-F38B2CB43B0C": {
+      "0C538CEF-0FEF-45D0-8CF1-71E10F00A201": {
+        "411866D9-3B2B-4F77-9CD3-D42AC5E3F687": "English"
+      },
+      "symbolID": "AE522A1E-7D2E-45E0-BBC6-B98430B29C3E"
+    },
+    "A8A456CA-AE07-4C1A-8B1F-0639B5DA2F02": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 12,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "90D57E76-91F5-448D-A36A-EC1A13955E52",
+  "verticalSpacing": 0
+}

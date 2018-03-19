@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGa2xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAcHR4fKywtLi8wMTIzOT1FRkdISUxQXWBjZ1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA18QN1RoZSBmb2xsb3dpbmcgc25pcHBldCBvZiB0ZXh0IGlzIHJlbmRlcmVkIGFzIGxpbmsgdGV4dC7TERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAEYAZgBBfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZdMREgogJRukISIjJIAIgAmACoALpCYnKCmADIANgA6AD4AQU3JlZFVhbHBoYVRibHVlVWdyZWVuIwAAAAAAAAAAIz/wAAAAAAAAIz/p2dnZ2dnaIz/hEREREREV0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiNjhYTlNPYmplY3TSCjo7PF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBiAEtMREgo+QUSiP0CAE4AUokJDgBWAFoAXXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCgAAAAAAABYT3BlblNhbnPSNDVKS18QE05TTXV0YWJsZURpY3Rpb25hcnmjSjY40jQ1TU5fEBBOU0ZvbnREZXNjcmlwdG9yok84XxAQTlNGb250RGVzY3JpcHRvctcKUVJTVFVWV1hZWVtcXFpOU1RhYlN0b3BzW05TVGV4dExpc3RzXE5TVGV4dEJsb2Nrc18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHSAHIAAgBqAGhABI0AyAAAAAAAA0hIKXl+ggBvSNDVhYldOU0FycmF5omE40jQ1ZGVfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNkZjhfEBBOU1BhcmFncmFwaFN0eWxl0jQ1aGlfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiajhfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRbW5Ucm9vdIABAAgAEQAaACMALQAyADcAWABeAGUAbgB1AIIAhACGAIgAwgDJANEA3ADgAOIA5ADmAOoA7ADuAPAA8gEfAUEBVAFbAWABYgFkAWYBaAFtAW8BcQFzAXUBdwF7AYEBhgGMAZUBngGnAbABtQHAAckB1gHZAeIB5wIEAgYCCAIPAhICFAIWAhkCGwIdAh8CNQJLAlQCXQJiAngCfAKBApQClwKqArkCxALQAt0C/wMRAyMDJQMnAykDKwMtAzYDOwM8Az4DQwNLA04DUwNtA3EDhAOJA54DoQO2A8gDywPQAAAAAAAAAgEAAAAAAAAAbwAAAAAAAAAAAAAAAAAAA9I="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "A915940D-CB2C-444D-8FE7-20606AD32689",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "23FCD4EF-08F9-41D7-912A-872C1DA20103",
+    "height": 17,
+    "width": 331,
+    "x": -428,
+    "y": 223
+  },
+  "glyphBounds": "{{0, 4}, {290, 13}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Caption Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "2EEE5A85-C1CB-400C-AA77-DD8EF11DBA18"
+  },
+  "textBehaviour": 2
+}

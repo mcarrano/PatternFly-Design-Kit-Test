@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2E38288F-DF21-4CA5-BAA4-C7DF7A09D7F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7570BBE7-3F6B-4545-9782-EBBBC62A6792",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0BFF1E81-89D8-4ECE-B4C7-A37E6DA482E7",
+    "height": 60,
+    "width": 402,
+    "x": 2.48480463096962,
+    "y": 153
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Password Field",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CA95278A-701E-4F3F-8B12-6AB16448CB8F_symbolID",
+      "value": "2789F3AB-6CD2-4C02-BA71-5E400B011D4A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CA95278A-701E-4F3F-8B12-6AB16448CB8F/5CDC8881-E4F0-4987-8544-6FDB9FF06B67_stringValue",
+      "value": "Password"
+    }
+  ],
+  "overrides": {
+    "CA95278A-701E-4F3F-8B12-6AB16448CB8F": {
+      "5CDC8881-E4F0-4987-8544-6FDB9FF06B67": "Password",
+      "symbolID": "2789F3AB-6CD2-4C02-BA71-5E400B011D4A"
+    }
+  },
+  "resizingConstraint": 43,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F39C0D50-5836-438C-9724-DC46AA95464F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6442EE2B-377A-4A5C-BF00-CAC77FF8767A",
+  "verticalSpacing": 0
+}

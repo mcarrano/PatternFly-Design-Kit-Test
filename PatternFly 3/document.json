@@ -1,0 +1,47 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "900EBC20-B3C6-40A9-950F-3C27F961BB57",
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "49.1",
+    "build": 51147,
+    "version": 101
+  },
+  "pages": [
+    "⭐️Change Log",
+    "🔄 Cards",
+    "🔄 Forms",
+    "🔄 Buttons",
+    "🔄 Dropdowns",
+    "🔄 Icons",
+    "🔄 Colors",
+    "🔄 Shadows",
+    "🔄 Typography"
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F4A1DC47-CE89-46C0-87B2-003DBE43898A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "407E319A-D1CD-4ED0-9062-39CE93BBF98D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0E202DDE-16CF-40EA-AB16-8D70A15C800E",
+    "height": 439.1685107920403,
+    "width": 471.8862154493164,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Background Card",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 27,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1B774910-0310-4D25-B3D1-23E790DD6374",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0F4A4565-96C7-468F-89B3-9E6F978B60D6",
+  "verticalSpacing": 0
+}

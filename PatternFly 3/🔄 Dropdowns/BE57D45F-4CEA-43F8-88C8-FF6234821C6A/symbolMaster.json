@@ -1,0 +1,87 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C9DEC1EA-79EA-45D8-96A4-8406023D9A7D",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 1142,
+  "do_objectID": "BE57D45F-4CEA-43F8-88C8-FF6234821C6A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E7F29A96-C475-4ABD-AD4E-7C940DBF7ED0",
+    "height": 30,
+    "width": 39,
+    "x": -183,
+    "y": 69
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "431C9AA8-CBFB-407E-B504-BD762E5A4212",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BEA3E2FD-1174-4F37-8817-002547BFADA9"
+    },
+    {
+      "class": "text",
+      "id": "C562FAF4-3528-45A7-9978-6DC64595FA17"
+    }
+  ],
+  "name": "/b Hover Standard",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5F75BA90-6F1D-4ED4-842E-2A70C9B567A0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "57F4FFE0-A8A0-4B86-A566-E040D1C27179",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "742D9DD3-25B7-4452-927F-D367BB80D0BA",
+    "guides": [
+    ]
+  }
+}
