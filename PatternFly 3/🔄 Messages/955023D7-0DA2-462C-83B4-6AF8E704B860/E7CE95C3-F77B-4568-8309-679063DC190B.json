@@ -1,8 +1,9 @@
 {
-  "_class": "page",
-  "do_objectID": "18C70725-3505-4D8B-96FC-F2EA2CD70C98",
+  "_class": "symbolInstance",
+  "do_objectID": "E7CE95C3-F77B-4568-8309-679063DC190B",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "A5623D54-EB27-48F4-B6E3-F04C50B1122B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,48 +14,36 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "do_objectID": "32065916-11CC-4F58-B107-B4CC045EAE01",
+    "height": 23,
+    "width": 49,
     "x": 0,
     "y": 0
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -663,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "510B2A42-775B-4E46-B998-BA5DAEF82C26"
-    }
+  "name": "📐Padding",
+  "nameIsFixed": true,
+  "overrideValues": [
   ],
-  "name": "⭐️Change Log",
-  "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "overrides": {
+  },
+  "resizingConstraint": 58,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "6A0566FF-C785-4C11-8FC9-3BF2296F7517",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "userInfo": {
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -455,
-    "guides": [
-    ]
-  }
+  "symbolID": "1FE4CC8F-DE48-453D-A823-6D719A86C710",
+  "verticalSpacing": 0
 }
