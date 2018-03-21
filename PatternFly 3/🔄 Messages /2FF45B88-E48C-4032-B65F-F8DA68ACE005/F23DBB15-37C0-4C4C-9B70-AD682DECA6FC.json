@@ -1,8 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "96528332-584B-4E8B-9BD6-DB2A72A9B85C",
+  "do_objectID": "F23DBB15-37C0-4C4C-9B70-AD682DECA6FC",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "DA7AFA98-2EF6-4956-8C4C-1BF159137AE2",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,8 +14,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 50,
-    "width": 50,
+    "do_objectID": "9AF88A06-7BF3-43AD-A9C0-290D08A6B7FF",
+    "height": 9,
+    "width": 13,
     "x": 0,
     "y": 0
   },
@@ -24,23 +26,24 @@
   "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Color / Cyan / pf-cyan-400",
-  "nameIsFixed": false,
+  "name": "Color",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {
   },
-  "resizingConstraint": 63,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "F5989547-AA8F-44DE-9F25-2068E070E22A",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "9D710DF7-CFEE-48F2-BD46-7971166C15D6",
+  "symbolID": "2D133E4E-FCD0-4A6D-A243-E79E0A756F3C",
   "verticalSpacing": 0
 }
